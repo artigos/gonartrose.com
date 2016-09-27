@@ -3,7 +3,7 @@ layout: default
 title: Gonartrose
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A artrose do joelho pode surgir em consequência de trauma, infecção, meniscectomia, lesão ligamentar ou qualquer outra agressão articular, mas também pode surgir sem causa aparente.
 A gonartrose atinge mais o sexo feminino que o masculino. Isto deve-se às diferenças anatómicas entre os dois sexos: maior diâmetro transversal da bacia feminina (vantagem obstétrica) que implica um maior ângulo em valgo do joelho.
